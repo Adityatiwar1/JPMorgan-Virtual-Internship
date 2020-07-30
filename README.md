@@ -1,5 +1,7 @@
-### JPMorgan-Virtual-Internship
-# Software Engineering Virtual Experience
+# JPMorgan-Virtual-Internship
+### Software Engineering Virtual Experience
+
+#### I request all of you to just take an overview of these files and not to directly copy these files as it is as there is some user specific data in each interns work.
 
 In this repository, would be uploading my patch files (work done).
 
